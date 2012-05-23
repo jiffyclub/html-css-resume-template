@@ -1,0 +1,91 @@
+body {
+    margin: 40px;
+    font-family: "Minion Pro", serif;
+    font-size: 12pt;
+}
+
+header {
+    font-family: "Trajan Pro", serif;
+    padding-bottom: 10px;
+}
+
+header h1 {
+    font-size: 20pt;
+    letter-spacing: 2pt;
+    border-bottom: 1px solid black;
+    margin-bottom: 4px;
+}
+
+header span {
+    font-size: 10pt;
+    float: right;
+}
+
+section h2 {
+    font-family: "Trajan Pro", serif;
+    font-size: 14pt;
+}
+
+section p {
+    margin-left: 40px;
+}
+
+section ul {
+    list-style-type: circle;
+}
+
+.jobtable {
+    display: table;
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin-left: 20px;
+}
+
+.edtable {
+    display: table;
+    width: 100%;
+    margin-left: 20px;
+    padding-bottom: 15px;
+}
+
+.skillstable {
+    display: table;
+    width: 100%;
+}
+
+.table {
+    display: table;
+    margin-left: 20px;
+}
+
+.tablerow {
+    display: table-row;
+}
+
+.jobtitle {
+    display: table-cell;
+    font-style: italic;
+}
+
+.right {
+    display: table-cell;
+    text-align: right;
+}
+
+.cell {
+    display: table-cell;
+}
+
+.onlinecell {
+    font-style: italic;
+    padding-right: 10px;
+}
+
+.urlcell {
+    display: table-cell;
+    letter-spacing: 1px;
+}
+
+.pagebreak {
+    page-break-before: always;
+}
