@@ -1,12 +1,21 @@
+View the sample PDF at
+https://docs.google.com/open?id=0B4Kr6DYkzkQtUUxNZ1FkNmdyeU0.
+
 Reorder and rename sections to make this your own. Don't forget to change
 or remove *all* the template text. It would be embarassing if someone thought
 you *really* worked as a Squirrel Chaser, fun as that would be.
+
+Pagebreaks
+==========
 
 Manually place pagebreaks by putting the line::
 
     <div class="pagebreak"></div>
 
 in the appropriate place in `resume.html`.
+
+Fonts
+=====
 
 You may need to replace the fonts specified in `resume.css` depending on
 what's available on your system.
