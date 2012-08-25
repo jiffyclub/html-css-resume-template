@@ -30,6 +30,14 @@ section p {
     margin-left: 40px;
 }
 
+section.coverletter {
+    margin-top: 40px;
+}
+
+section.coverletter p {
+    margin-left: 0px;
+}
+
 section ul {
     list-style-type: circle;
 }
