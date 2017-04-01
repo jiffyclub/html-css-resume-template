@@ -1,5 +1,5 @@
 View the sample PDF at
-https://dl.dropbox.com/u/35602272/resume_example.pdf.
+[resume_example.pdf](resume_example.pdf).
 
 Reorder and rename sections to make this your own. Don't forget to change
 or remove *all* the template text. It would be embarassing if someone thought
